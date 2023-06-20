@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Andreita"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/ecf.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here yea."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
